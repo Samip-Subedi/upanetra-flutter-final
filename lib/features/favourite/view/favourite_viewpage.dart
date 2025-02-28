@@ -15,6 +15,7 @@ class FavouritePage extends StatelessWidget {
     final favorites = favoriteBox.values.toList();
 
     return Scaffold(
+      
       appBar: AppBar(
         title: Text('Favorites'),
       ),
