@@ -1,16 +1,55 @@
-# upanetra_mobile_app
+Upanetra - Sunglasses Store Mobile Application
 
-A new Flutter project.
+Overview
 
-## Getting Started
+Upanetra is a modern sunglasses store mobile application built with Flutter using Clean Architecture and BLoC state management. It provides a seamless shopping experience for users to browse, filter, purchase, and manage their favorite sunglasses.
 
-This project is a starting point for a Flutter application.
+Features
 
-A few resources to get you started if this is your first Flutter project:
+User Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Login / Sign-up
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Browse sunglasses collection
+
+Search & filter products
+
+Add to favorites
+
+Rate & comment on products
+
+Add to cart & proceed to checkout
+
+Secure payment integration
+
+Update profile & reset password
+
+Track order status
+
+Logout
+
+Admin Features
+
+Manage users (view/delete users)
+
+Manage products (view/edit/delete products)
+
+Manage product categories
+
+View & delete product comments
+
+Track orders & sales metrics
+
+Admin dashboard for analytics
+
+Tech Stack
+
+Frontend: Flutter, Dart
+
+State Management: BLoC
+
+Backend: Node.js (MERN Stack API)
+
+Databases: MongoDB, Hive (for local storage)
+
+Architecture: Clean Architecture, MVVM Pattern
